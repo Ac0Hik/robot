@@ -1,0 +1,1 @@
+A collaborative discord bot taht was created during the pandemic to manage a friends discord server.Most of the features created were under the request of the users.
